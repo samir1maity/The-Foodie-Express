@@ -29,7 +29,7 @@ exports.fetchOrdersByUser = async (req, res) => {
       const doc = await order.save();
       const user = await User.findById(order.user)
        // we can use await for this also 
-       sendMail({to:'samir12maity@gmail.com',html:invoiceTemplate(order),subject:'Order Received' })
+       sendMail({to:'majhimanas0076@gmail.com',html:invoiceTemplate(order),subject:'Order Received' })
              
       res.status(201).json(doc);
     } catch (err) {

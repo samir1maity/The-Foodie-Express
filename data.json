@@ -3126,3 +3126,127 @@
     }
   ]
 }
+
+"title": "Chilli Paneer (8 pcs)",
+"description": "A delicious chilli paneer with extra masala",
+"price": 150,
+"discountPercentage": 15,
+"rating": 4.0,
+"stock": 999,
+"brand": "Veg",
+"category": "Others",
+"thumbnail": "https://www.yummytummyaarthi.com/wp-content/uploads/2023/06/chilli-paneer-1.jpeg",
+"images": [
+  "https://www.yummytummyaarthi.com/wp-content/uploads/2023/06/chilli-paneer-1.jpeg",
+  "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4Ek-6LRWq4o0OOLQHFmxtw3YOG_blsliphHf1nbWGcw&s",
+  "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHmA48p0bZN-Q8f0qD1S_mV212kogD0HTUhSD7Welu1w&s",
+  "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMRt3ScsUSMWP3q6DrZVirFy3fsdw40hOkUahRkRmOxg&s"
+],
+"deleted": false,
+"discountPrice": 130
+
+// utgcfu
+
+"title": "Chicken Burger",
+"description": "A delicious Chicken burger",
+"price":120,
+"discountPercentage": 15,
+"rating": 4.4,
+"stock": 999,
+"brand": "Non-Veg",
+"category": "Others",
+"thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrGAO6jF5Tos_RjVFUnpD9pqzP_DjFcseGGp7XppJ2eg&s",
+"images": [
+  "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrGAO6jF5Tos_RjVFUnpD9pqzP_DjFcseGGp7XppJ2eg&sg",
+  "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyWqfPQU-pAlzf6xE-IBW4oqRdBbt6z9caChVZ8-j2pw&s",
+  "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyWqfPQU-pAlzf6xE-IBW4oqRdBbt6z9caChVZ8-j2pw&s",
+  "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyWqfPQU-pAlzf6xE-IBW4oqRdBbt6z9caChVZ8-j2pw&s"
+],
+"deleted": false,
+"discountPrice": 90
+
+// hsvdh
+
+
+"title": "Pizza (Small 6 inch)",
+"description": "A very delicious Pizza, small in size",
+"price":100,
+"discountPercentage": 15,
+"rating": 4.4,
+"stock": 999,
+"brand": "Non-Veg",
+"category": "Pizza",
+"thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrGAO6jF5Tos_RjVFUnpD9pqzP_DjFcseGGp7XppJ2eg&s",
+"images": [
+  "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrGAO6jF5Tos_RjVFUnpD9pqzP_DjFcseGGp7XppJ2eg&sg",
+  "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyWqfPQU-pAlzf6xE-IBW4oqRdBbt6z9caChVZ8-j2pw&s",
+  "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyWqfPQU-pAlzf6xE-IBW4oqRdBbt6z9caChVZ8-j2pw&s",
+  "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyWqfPQU-pAlzf6xE-IBW4oqRdBbt6z9caChVZ8-j2pw&s"
+],
+"deleted": false,
+"discountPrice": 90
+
+// hsvdh
+
+
+"title": "Pizza (Medium 7 inch)",
+"description": "A very delicious Pizza, medium in size",
+"price":135,
+"discountPercentage": 15,
+"rating": 4.4,
+"stock": 999,
+"brand": "Non-Veg",
+"category": "Pizza",
+"thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5vra-cmmkL9bi8bKQDNLhJtkHyAn3kb-ncu8nv8OM1g&s",
+"images": [
+  "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5vra-cmmkL9bi8bKQDNLhJtkHyAn3kb-ncu8nv8OM1g&s",
+  "https://imgmedia.lbb.in/media/2019/07/5d242ad8e93a896e5542da0d_1562651352251.jpg",
+  "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUQqZwXNJQTNy00Qc8dZ2yb2xBFL8zDNcGZTB3bpxlKA&s",
+  "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUQqZwXNJQTNy00Qc8dZ2yb2xBFL8zDNcGZTB3bpxlKA&s"
+],
+"deleted": false,
+"discountPrice": 120
+
+// hsvdh
+
+
+"title": "Pizza (Large 8 inch)",
+"description": "A very delicious Pizza, Large in size",
+"price":200,
+"discountPercentage": 15,
+"rating": 4.4,
+"stock": 999,
+"brand": "Non-Veg",
+"category": "Pizza",
+"thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5vra-cmmkL9bi8bKQDNLhJtkHyAn3kb-ncu8nv8OM1g&s",
+"images": [
+  "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5vra-cmmkL9bi8bKQDNLhJtkHyAn3kb-ncu8nv8OM1g&s",
+  "https://imgmedia.lbb.in/media/2019/07/5d242ad8e93a896e5542da0d_1562651352251.jpg",
+  "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUQqZwXNJQTNy00Qc8dZ2yb2xBFL8zDNcGZTB3bpxlKA&s",
+  "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUQqZwXNJQTNy00Qc8dZ2yb2xBFL8zDNcGZTB3bpxlKA&s"
+],
+"deleted": false,
+"discountPrice": 180
+
+
+// hsvdh
+
+
+"title": "Special Large Pizza ()",
+"description": "A Big delicious Pizza, Special Large in size",
+"price":250,
+"discountPercentage": 15,
+"rating": 4.9,
+"stock": 999,
+"brand": "Non-Veg",
+"category": "Pizza",
+"thumbnail": "",
+"images": [
+  "",
+  "",
+  "",
+  ""
+],
+"deleted": false,
+"discountPrice": 210
+
